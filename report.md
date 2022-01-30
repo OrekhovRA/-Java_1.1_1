@@ -4,11 +4,11 @@
 тип для хранения значений чисел.
 
 # Локация дефекта
-https://github.com/OrekhovRA/Java_1.1_1/issues/1#issue-1117502006
+https://github.com/OrekhovRA/Java_1.1_1/blob/ca9299d9a39626adecbd439b9b554d737a7a9ea6/src/Main.java#L4-L9
 
 # Шаги воспроизведения
 
-1. Открыть [код программы](ввв) в IDEA
+1. Открыть [код программы](https://github.com/OrekhovRA/Java_1.1_1/blob/ca9299d9a39626adecbd439b9b554d737a7a9ea6/src/Main.java) в IDEA
 2. Запустить программу
 3. Посмотреть на вывод в консоли
 
